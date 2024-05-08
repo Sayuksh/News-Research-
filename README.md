@@ -1,5 +1,5 @@
 # News-Research
-<img src ="News-Research.jpg">
+<img src ="News Research.jpg">
 
 # How to run?
 ### STEPS:
